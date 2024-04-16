@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 
-public class test {
+public  class Test {
     public static void main(String[] args){
         Person person = new Person("john", "doe");
         Person person2 = new Person("ana", "hoxha");
